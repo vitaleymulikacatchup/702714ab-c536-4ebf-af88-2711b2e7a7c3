@@ -6,7 +6,8 @@ import HeroBillboardScroll from '@/components/sections/hero/HeroBillboardScroll'
 import TagAbout from '@/components/sections/about/TagAbout';
 import FeatureCardFour from '@/components/sections/feature/FeatureCardFour';
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
-import { TestimonialCardTwo } from '@/components/sections/testimonial/TestimonialCardTwo';
+import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
+import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
 import SocialProofTwo from '@/components/sections/socialProof/SocialProofTwo';
 import FaqDouble from '@/components/sections/faq/FaqDouble';
 import BlogCardOne from '@/components/sections/blog/BlogCardOne';
