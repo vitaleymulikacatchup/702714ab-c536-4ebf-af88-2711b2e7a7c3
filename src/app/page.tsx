@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -6,8 +6,7 @@ import HeroBillboardScroll from '@/components/sections/hero/HeroBillboardScroll'
 import TagAbout from '@/components/sections/about/TagAbout';
 import FeatureCardFour from '@/components/sections/feature/FeatureCardFour';
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
-import MetricCardTwo from '@/components/sections/metric/MetricCardTwo';
-import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
+import { TestimonialCardTwo } from '@/components/sections/testimonial/TestimonialCardTwo';
 import SocialProofTwo from '@/components/sections/socialProof/SocialProofTwo';
 import FaqDouble from '@/components/sections/faq/FaqDouble';
 import BlogCardOne from '@/components/sections/blog/BlogCardOne';
@@ -245,9 +244,7 @@ export default function Home() {
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032703537-l3e076n3.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032704022-01wg0uro.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032704624-koc682u3.jpg",
-            "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032705157-9hlyax4i.jpg",
-            "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032705696-77lynne6.jpg",
-            "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032706496-83wnjo12.jpg"
+            "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763032705157-9hlyax4i.jpg"
           ]}
           textboxLayout="default"
         />
